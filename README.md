@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TRSakin12793
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning Java which is a programming language
+- 🌱 I’m currently learning Javascript and C which is a programming language
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by my facebook and gmail account which is given below:
-     https://www.facebook.com/profile.php?id=100071536200466
+- 📫 You can reach me by my gmail account which is given below:
      tanvinrashid2007@gmail.com
 
 <!---
